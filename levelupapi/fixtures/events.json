@@ -1,0 +1,12 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "location": "Bob's House",
+            "date": "2023-09-01",
+            "organizer": 1,
+            "attendees": [1]
+        }
+    }
+]
